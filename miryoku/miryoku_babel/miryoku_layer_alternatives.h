@@ -331,7 +331,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 #define MIRYOKU_ALTERNATIVES_MEDIA_VI \
 U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,         \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp C_PREV,        &kp C_VOL_DN,      &kp C_VOL_UP,      &kp C_NEXT,        U_NA,          \
-U_NA,              &kp RALT,          U_NA,              U_NA,              U_NA,              &bt BT_CLR,        &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       U_NA,        \
+U_NA,              &kp RALT,          U_NA,              U_NA,              U_NA,              &bt BT_CLR,        &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       &u_bt_sel_5,        \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp C_STOP,        &u_bt_sel_0,       &kp C_MUTE,        U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MEDIA \
